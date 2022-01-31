@@ -3,6 +3,8 @@ Follow the instructions
 1. Open github.com
 
 ## SUBHEADER
+1.updated by me
+123
 1. Open www.github.com 
 2. Create new repository
 3. Create new branches
@@ -13,6 +15,6 @@ Follow the instructions
 #branch d
 1.Updated by Divya
 2.created new branch d
-
+3.change1
 
 
