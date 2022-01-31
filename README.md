@@ -13,8 +13,8 @@ Follow the instructions:
 10. 
 
  ---- New updates
- 1) Created new branch BranchD
- 2) Created new branch branch_B
+ 1) Created new branch BranchD -- by Divya
+ 2) Created new branch branch_B -- by Bhuvi
  3) Updated README
  4) Staged and commited changes
 
