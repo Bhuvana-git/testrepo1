@@ -13,8 +13,9 @@ Follow the instructions:
 10. 
 --- Latest update
 #branch d
-1.Updated by Divya
-2.created new branch d
+1. Updated by Divya
+2. created new branch d
 3. created branch_B
-4.change1 done by bhuvi
+4. change1 
+5. done by bhuvi
 
