@@ -7,5 +7,6 @@ Follow the instructions
 2. Create new repository
 3. Create new branches
 4. Update README 
-5. Stage the changes
-6. Commit the changes
+5. Commit changes
+6. Push to remote
+
