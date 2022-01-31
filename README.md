@@ -5,3 +5,5 @@ Follow the instructions
 ## SUBHEADER
 1. Open www.github.com 
 2. Create new repository
+3. Create new branches
+4. Update README 
