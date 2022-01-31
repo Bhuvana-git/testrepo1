@@ -4,7 +4,7 @@ Follow the instructions
 2. Create new repository
 3. Create new branches
 4. Update README 
-5. Commit changes
+5. Stage and Commit changes
 6. Push to remote
 
 #branch d
