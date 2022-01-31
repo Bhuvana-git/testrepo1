@@ -16,10 +16,5 @@ Follow the instructions:
 1.Updated by Divya
 2.created new branch d
 3. created branch_B
-4.change1
-
- ---- New updates
- 1) Created new branch BranchD
- 2) Created new branch branch_B
- 3) Updated README
+4.change1 done by bhuvana
 
