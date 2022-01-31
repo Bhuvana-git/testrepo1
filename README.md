@@ -11,9 +11,8 @@ Follow the instructions:
 8. Stage and Commit changes
 9. Push to remote
 10. 
-
-
-
---- Latest update
-
+ ---- New updates
+ 1) Created new branch BranchD
+ 2) Created new branch branch_B
+ 3) Updated README
 
