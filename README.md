@@ -16,4 +16,5 @@ Follow the instructions:
  1) Created new branch BranchD
  2) Created new branch branch_B
  3) Updated README
+ 4) Staged and commited changes
 
