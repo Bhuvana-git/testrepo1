@@ -7,4 +7,5 @@ Follow the instructions:
 4. Update README 
 5. Stage and Commit changes
 6. Push to remote
+7. Verify the changes
 
